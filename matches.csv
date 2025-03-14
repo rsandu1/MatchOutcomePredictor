@@ -1,0 +1,381 @@
+match_id,home_team,away_team,home_goals,away_goals,match_outcome
+1035037,Burnley,Manchester City,0,3,Loss
+1035038,Arsenal,Nottingham Forest,2,1,Win
+1035039,Bournemouth,West Ham,1,1,Draw
+1035041,Everton,Fulham,0,1,Loss
+1035040,Brighton,Luton,4,1,Win
+1035042,Sheffield Utd,Crystal Palace,0,1,Loss
+1035043,Newcastle,Aston Villa,5,1,Win
+1035044,Brentford,Tottenham,2,2,Draw
+1035045,Chelsea,Liverpool,1,1,Draw
+1035046,Manchester United,Wolves,1,0,Win
+1035053,Nottingham Forest,Sheffield Utd,2,1,Win
+1035049,Fulham,Brentford,0,3,Loss
+1035056,Wolves,Brighton,1,4,Loss
+1035050,Liverpool,Bournemouth,3,1,Win
+1035054,Tottenham,Manchester United,2,0,Win
+1035052,Manchester City,Newcastle,1,0,Win
+1035047,Aston Villa,Everton,4,0,Win
+1035055,West Ham,Chelsea,3,1,Win
+1035048,Crystal Palace,Arsenal,0,1,Loss
+1035062,Chelsea,Luton,3,0,Win
+1035057,Bournemouth,Tottenham,0,2,Loss
+1035064,Manchester United,Nottingham Forest,3,2,Win
+1035058,Arsenal,Fulham,2,2,Draw
+1035063,Everton,Wolves,0,1,Loss
+1035059,Brentford,Crystal Palace,1,1,Draw
+1035060,Brighton,West Ham,1,3,Loss
+1035061,Burnley,Aston Villa,1,3,Loss
+1035066,Sheffield Utd,Manchester City,1,2,Loss
+1035065,Newcastle,Liverpool,1,2,Loss
+1035074,Luton,West Ham,1,2,Loss
+1035076,Sheffield Utd,Everton,2,2,Draw
+1035070,Burnley,Tottenham,2,5,Loss
+1035071,Chelsea,Nottingham Forest,0,1,Loss
+1035075,Manchester City,Fulham,5,1,Win
+1035068,Brentford,Bournemouth,2,2,Draw
+1035069,Brighton,Newcastle,3,1,Win
+1035073,Liverpool,Aston Villa,3,0,Win
+1035072,Crystal Palace,Wolves,3,2,Win
+1035067,Arsenal,Manchester United,3,1,Win
+1035086,Wolves,Liverpool,1,3,Loss
+1035081,Manchester United,Brighton,1,3,Loss
+1035080,Fulham,Luton,1,0,Win
+1035084,Tottenham,Sheffield Utd,2,1,Win
+1035085,West Ham,Manchester City,1,3,Loss
+1035078,Aston Villa,Crystal Palace,3,1,Win
+1035082,Newcastle,Brentford,1,0,Win
+1035077,Bournemouth,Chelsea,0,0,Draw
+1035079,Everton,Arsenal,0,1,Loss
+1035083,Nottingham Forest,Burnley,1,1,Draw
+1035095,Manchester City,Nottingham Forest,2,0,Win
+1035092,Crystal Palace,Fulham,0,0,Draw
+1035094,Luton,Wolves,1,1,Draw
+1035088,Brentford,Everton,1,3,Loss
+1035090,Burnley,Manchester United,0,1,Loss
+1035093,Liverpool,West Ham,3,1,Win
+1035087,Arsenal,Tottenham,2,2,Draw
+1035091,Chelsea,Aston Villa,0,1,Loss
+1035089,Brighton,Bournemouth,3,1,Win
+1035096,Sheffield Utd,Newcastle,0,8,Loss
+1035098,Aston Villa,Brighton,6,1,Win
+1035101,Manchester United,Crystal Palace,0,1,Loss
+1035102,Newcastle,Burnley,2,0,Win
+1035097,Bournemouth,Arsenal,0,4,Loss
+1035106,Wolves,Manchester City,2,1,Win
+1035099,Everton,Luton,1,2,Loss
+1035105,West Ham,Sheffield Utd,2,0,Win
+1035104,Tottenham,Liverpool,2,1,Win
+1035103,Nottingham Forest,Brentford,1,1,Draw
+1035100,Fulham,Chelsea,0,2,Loss
+1035051,Luton,Burnley,1,2,Loss
+1035113,Luton,Tottenham,0,1,Loss
+1035114,Manchester United,Brentford,2,1,Win
+1035112,Fulham,Sheffield Utd,3,1,Win
+1035109,Burnley,Chelsea,1,4,Loss
+1035111,Everton,Bournemouth,3,0,Win
+1035110,Crystal Palace,Nottingham Forest,0,0,Draw
+1035116,Wolves,Aston Villa,1,1,Draw
+1035115,West Ham,Newcastle,2,2,Draw
+1035108,Brighton,Liverpool,2,2,Draw
+1035107,Arsenal,Manchester City,1,0,Win
+1035121,Liverpool,Everton,2,0,Win
+1035123,Newcastle,Crystal Palace,4,0,Win
+1035117,Bournemouth,Wolves,1,2,Loss
+1035122,Manchester City,Brighton,2,1,Win
+1035119,Brentford,Burnley,3,0,Win
+1035124,Nottingham Forest,Luton,2,2,Draw
+1035120,Chelsea,Arsenal,2,2,Draw
+1035125,Sheffield Utd,Manchester United,1,2,Loss
+1035118,Aston Villa,West Ham,4,1,Win
+1035126,Tottenham,Fulham,2,0,Win
+1035132,Crystal Palace,Tottenham,1,2,Loss
+1035131,Chelsea,Brentford,0,2,Loss
+1035127,Bournemouth,Burnley,2,1,Win
+1035128,Arsenal,Sheffield Utd,5,0,Win
+1035136,Wolves,Newcastle,2,2,Draw
+1035135,West Ham,Everton,0,1,Loss
+1035133,Liverpool,Nottingham Forest,3,0,Win
+1035130,Brighton,Fulham,1,1,Draw
+1035129,Aston Villa,Luton,3,1,Win
+1035134,Manchester United,Manchester City,0,3,Loss
+1035140,Fulham,Manchester United,0,1,Loss
+1035138,Burnley,Crystal Palace,0,2,Loss
+1035139,Everton,Brighton,1,1,Draw
+1035142,Manchester City,Bournemouth,6,1,Win
+1035137,Brentford,West Ham,3,2,Win
+1035145,Sheffield Utd,Wolves,2,1,Win
+1035143,Newcastle,Arsenal,1,0,Win
+1035144,Nottingham Forest,Aston Villa,2,0,Win
+1035141,Luton,Liverpool,1,1,Draw
+1035146,Tottenham,Chelsea,1,4,Loss
+1035156,Wolves,Tottenham,2,1,Win
+1035154,Manchester United,Luton,1,0,Win
+1035148,Arsenal,Burnley,3,1,Win
+1035152,Crystal Palace,Everton,2,3,Loss
+1035147,Bournemouth,Newcastle,2,0,Win
+1035153,Liverpool,Brentford,3,0,Win
+1035155,West Ham,Nottingham Forest,3,2,Win
+1035150,Brighton,Sheffield Utd,1,1,Draw
+1035149,Aston Villa,Fulham,3,1,Win
+1035151,Chelsea,Manchester City,4,4,Draw
+1035299,Manchester City,Liverpool,1,1,Draw
+1035300,Newcastle,Chelsea,4,1,Win
+1035295,Burnley,West Ham,1,2,Loss
+1035302,Sheffield Utd,Bournemouth,1,3,Loss
+1035301,Nottingham Forest,Brighton,2,3,Loss
+1035298,Luton,Crystal Palace,2,1,Win
+1035294,Brentford,Arsenal,0,1,Loss
+1035303,Tottenham,Aston Villa,1,2,Loss
+1035296,Everton,Manchester United,0,3,Loss
+1035297,Fulham,Wolves,3,2,Win
+1035305,Arsenal,Wolves,2,1,Win
+1035307,Burnley,Sheffield Utd,5,0,Win
+1035306,Brentford,Luton,3,1,Win
+1035312,Nottingham Forest,Everton,0,1,Loss
+1035311,Newcastle,Manchester United,1,0,Win
+1035304,Bournemouth,Aston Villa,2,2,Draw
+1035309,Liverpool,Fulham,4,3,Win
+1035313,West Ham,Crystal Palace,1,1,Draw
+1035308,Chelsea,Brighton,3,2,Win
+1035310,Manchester City,Tottenham,3,3,Draw
+1035321,Wolves,Burnley,1,0,Win
+1035318,Luton,Arsenal,3,4,Loss
+1035317,Fulham,Nottingham Forest,5,0,Win
+1035315,Brighton,Brentford,2,1,Win
+1035322,Crystal Palace,Bournemouth,0,2,Loss
+1035319,Sheffield Utd,Liverpool,0,2,Loss
+1035323,Manchester United,Chelsea,2,1,Win
+1035314,Aston Villa,Manchester City,1,0,Win
+1035316,Everton,Newcastle,3,0,Win
+1035320,Tottenham,West Ham,1,2,Loss
+1035326,Crystal Palace,Liverpool,1,2,Loss
+1035330,Manchester United,Bournemouth,0,3,Loss
+1035333,Wolves,Nottingham Forest,1,1,Draw
+1035325,Brighton,Burnley,1,1,Draw
+1035331,Sheffield Utd,Brentford,1,0,Win
+1035324,Aston Villa,Arsenal,1,0,Win
+1035328,Fulham,West Ham,5,0,Win
+1035327,Everton,Chelsea,2,0,Win
+1035329,Luton,Manchester City,1,2,Loss
+1035332,Tottenham,Newcastle,4,1,Win
+1035342,Nottingham Forest,Tottenham,0,2,Loss
+1035341,Newcastle,Fulham,3,0,Win
+1035338,Chelsea,Sheffield Utd,2,0,Win
+1035340,Manchester City,Crystal Palace,2,2,Draw
+1035337,Burnley,Everton,0,2,Loss
+1035335,Arsenal,Brighton,2,0,Win
+1035343,West Ham,Wolves,3,0,Win
+1035336,Brentford,Aston Villa,1,2,Loss
+1035339,Liverpool,Manchester United,0,0,Draw
+1035345,Crystal Palace,Brighton,1,1,Draw
+1035344,Aston Villa,Sheffield Utd,1,1,Draw
+1035352,West Ham,Manchester United,2,0,Win
+1035346,Fulham,Burnley,0,2,Loss
+1035351,Tottenham,Everton,2,1,Win
+1035350,Nottingham Forest,Bournemouth,2,3,Loss
+1035348,Luton,Newcastle,1,0,Win
+1035347,Liverpool,Arsenal,1,1,Draw
+1035353,Wolves,Chelsea,2,1,Win
+1035362,Newcastle,Nottingham Forest,1,3,Loss
+1035354,Bournemouth,Fulham,3,0,Win
+1035363,Sheffield Utd,Luton,2,3,Loss
+1035358,Burnley,Liverpool,0,2,Loss
+1035361,Manchester United,Aston Villa,3,2,Win
+1035359,Chelsea,Crystal Palace,2,1,Win
+1035356,Brentford,Wolves,1,4,Loss
+1035360,Everton,Manchester City,1,3,Loss
+1035357,Brighton,Tottenham,4,2,Win
+1035355,Arsenal,West Ham,0,2,Loss
+1035368,Luton,Chelsea,2,3,Loss
+1035373,Wolves,Everton,3,0,Win
+1035369,Manchester City,Sheffield Utd,2,0,Win
+1035365,Crystal Palace,Brentford,3,1,Win
+1035364,Aston Villa,Burnley,3,2,Win
+1035370,Nottingham Forest,Manchester United,2,1,Win
+1035366,Fulham,Arsenal,2,1,Win
+1035371,Tottenham,Bournemouth,3,1,Win
+1035367,Liverpool,Newcastle,4,2,Win
+1035372,West Ham,Brighton,0,0,Draw
+1035378,Burnley,Luton,1,1,Draw
+1035379,Chelsea,Fulham,1,0,Win
+1035382,Newcastle,Manchester City,2,3,Loss
+1035380,Everton,Aston Villa,0,0,Draw
+1035381,Manchester United,Tottenham,2,2,Draw
+1035375,Arsenal,Crystal Palace,5,0,Win
+1035376,Brentford,Nottingham Forest,3,2,Win
+1035383,Sheffield Utd,West Ham,2,2,Draw
+1035374,Bournemouth,Liverpool,0,4,Loss
+1035377,Brighton,Wolves,0,0,Draw
+1035387,Nottingham Forest,Arsenal,1,2,Loss
+1035385,Fulham,Everton,0,0,Draw
+1035386,Luton,Brighton,4,0,Win
+1035391,Crystal Palace,Sheffield Utd,3,2,Win
+1035384,Aston Villa,Newcastle,1,3,Loss
+1035388,Tottenham,Brentford,3,2,Win
+1035393,Manchester City,Burnley,3,1,Win
+1035392,Liverpool,Chelsea,4,1,Win
+1035389,West Ham,Bournemouth,1,1,Draw
+1035390,Wolves,Manchester United,3,4,Loss
+1035400,Everton,Tottenham,2,2,Draw
+1035402,Newcastle,Luton,4,4,Draw
+1035398,Burnley,Fulham,2,2,Draw
+1035397,Brighton,Crystal Palace,4,1,Win
+1035403,Sheffield Utd,Aston Villa,0,5,Loss
+1035401,Manchester United,West Ham,3,0,Win
+1035394,Bournemouth,Nottingham Forest,1,1,Draw
+1035399,Chelsea,Wolves,2,4,Loss
+1035395,Arsenal,Liverpool,3,1,Win
+1035396,Brentford,Manchester City,1,3,Loss
+1035409,Manchester City,Everton,2,0,Win
+1035406,Fulham,Bournemouth,3,1,Win
+1035413,Wolves,Brentford,0,2,Loss
+1035407,Liverpool,Burnley,3,1,Win
+1035411,Tottenham,Brighton,2,1,Win
+1035408,Luton,Sheffield Utd,1,3,Loss
+1035410,Nottingham Forest,Newcastle,2,3,Loss
+1035412,West Ham,Arsenal,0,6,Loss
+1035404,Aston Villa,Manchester United,1,2,Loss
+1035405,Crystal Palace,Chelsea,1,3,Loss
+1035414,Brentford,Liverpool,1,4,Loss
+1035420,Newcastle,Bournemouth,2,2,Draw
+1035417,Fulham,Aston Villa,1,2,Loss
+1035415,Burnley,Arsenal,0,5,Loss
+1035423,Tottenham,Wolves,1,2,Loss
+1035421,Nottingham Forest,West Ham,2,0,Win
+1035419,Manchester City,Chelsea,1,1,Draw
+1035422,Sheffield Utd,Brighton,0,5,Loss
+1035418,Luton,Manchester United,1,2,Loss
+1035416,Everton,Crystal Palace,1,1,Draw
+1035349,Manchester City,Brentford,1,0,Win
+1035430,Liverpool,Luton,4,1,Win
+1035431,Manchester United,Fulham,1,2,Loss
+1035427,Brighton,Everton,1,1,Draw
+1035429,Crystal Palace,Burnley,3,0,Win
+1035426,Aston Villa,Nottingham Forest,4,2,Win
+1035424,Bournemouth,Manchester City,0,1,Loss
+1035425,Arsenal,Newcastle,4,1,Win
+1035433,Wolves,Sheffield Utd,1,0,Win
+1035432,West Ham,Brentford,4,2,Win
+1035440,Newcastle,Wolves,3,0,Win
+1035437,Fulham,Brighton,3,0,Win
+1035436,Everton,West Ham,1,3,Loss
+1035443,Tottenham,Crystal Palace,3,1,Win
+1035434,Brentford,Chelsea,2,2,Draw
+1035441,Nottingham Forest,Liverpool,0,1,Loss
+1035438,Luton,Aston Villa,2,3,Loss
+1035435,Burnley,Bournemouth,0,2,Loss
+1035439,Manchester City,Manchester United,3,1,Win
+1035442,Sheffield Utd,Arsenal,0,6,Loss
+1035451,Manchester United,Everton,2,0,Win
+1035444,Bournemouth,Sheffield Utd,2,2,Draw
+1035453,Wolves,Fulham,2,1,Win
+1035449,Crystal Palace,Luton,1,1,Draw
+1035445,Arsenal,Brentford,2,1,Win
+1035446,Aston Villa,Tottenham,0,4,Loss
+1035452,West Ham,Burnley,2,2,Draw
+1035447,Brighton,Nottingham Forest,1,0,Win
+1035450,Liverpool,Manchester City,1,1,Draw
+1035448,Chelsea,Newcastle,3,2,Win
+1035334,Bournemouth,Luton,4,3,Win
+1035456,Burnley,Brentford,2,1,Win
+1035460,Luton,Nottingham Forest,1,1,Draw
+1035459,Fulham,Tottenham,3,0,Win
+1035462,West Ham,Aston Villa,1,1,Draw
+1035470,Newcastle,West Ham,4,3,Win
+1035464,Bournemouth,Everton,2,1,Win
+1035473,Tottenham,Luton,2,1,Win
+1035467,Chelsea,Burnley,2,2,Draw
+1035472,Sheffield Utd,Fulham,3,3,Draw
+1035471,Nottingham Forest,Crystal Palace,1,1,Draw
+1035465,Aston Villa,Wolves,2,0,Win
+1035466,Brentford,Manchester United,1,1,Draw
+1035468,Liverpool,Brighton,2,1,Win
+1035469,Manchester City,Arsenal,0,0,Draw
+1035481,Newcastle,Everton,1,1,Draw
+1035478,Nottingham Forest,Fulham,3,1,Win
+1035474,Bournemouth,Crystal Palace,1,0,Win
+1035477,Burnley,Wolves,1,1,Draw
+1035479,West Ham,Tottenham,1,1,Draw
+1035475,Arsenal,Luton,2,0,Win
+1035476,Brentford,Brighton,0,0,Draw
+1035483,Manchester City,Aston Villa,4,1,Win
+1035482,Liverpool,Sheffield Utd,3,1,Win
+1035480,Chelsea,Manchester United,4,3,Win
+1035486,Crystal Palace,Manchester City,2,4,Loss
+1035488,Fulham,Newcastle,0,1,Loss
+1035493,Wolves,West Ham,1,2,Loss
+1035487,Everton,Burnley,1,0,Win
+1035484,Aston Villa,Brentford,3,3,Draw
+1035489,Luton,Bournemouth,2,1,Win
+1035485,Brighton,Arsenal,0,3,Loss
+1035490,Manchester United,Liverpool,2,2,Draw
+1035491,Sheffield Utd,Chelsea,2,2,Draw
+1035492,Tottenham,Nottingham Forest,3,1,Win
+1035501,Newcastle,Tottenham,4,0,Win
+1035497,Burnley,Brighton,1,1,Draw
+1035500,Manchester City,Luton,5,1,Win
+1035496,Brentford,Sheffield Utd,2,0,Win
+1035502,Nottingham Forest,Wolves,2,2,Draw
+1035494,Bournemouth,Manchester United,2,2,Draw
+1035499,Liverpool,Crystal Palace,0,1,Loss
+1035503,West Ham,Fulham,0,2,Loss
+1035495,Arsenal,Aston Villa,0,2,Loss
+1035498,Chelsea,Everton,6,0,Win
+1035511,Sheffield Utd,Burnley,1,4,Loss
+1035509,Luton,Brentford,1,5,Loss
+1035513,Wolves,Arsenal,0,2,Loss
+1035507,Everton,Nottingham Forest,2,0,Win
+1035506,Crystal Palace,West Ham,5,2,Win
+1035504,Aston Villa,Bournemouth,3,1,Win
+1035508,Fulham,Liverpool,1,3,Loss
+1035454,Arsenal,Chelsea,5,0,Win
+1035463,Wolves,Bournemouth,0,1,Loss
+1035461,Manchester United,Sheffield Utd,4,2,Win
+1035458,Everton,Liverpool,2,0,Win
+1035457,Crystal Palace,Newcastle,2,0,Win
+1035455,Brighton,Manchester City,0,4,Loss
+1035522,West Ham,Liverpool,2,2,Draw
+1035518,Manchester United,Burnley,1,1,Draw
+1035519,Newcastle,Sheffield Utd,5,1,Win
+1035517,Fulham,Crystal Palace,1,1,Draw
+1035523,Wolves,Luton,2,1,Win
+1035516,Everton,Brentford,1,0,Win
+1035515,Aston Villa,Chelsea,2,2,Draw
+1035514,Bournemouth,Brighton,3,0,Win
+1035521,Tottenham,Arsenal,2,3,Loss
+1035520,Nottingham Forest,Manchester City,0,2,Loss
+1035428,Chelsea,Tottenham,2,0,Win
+1035531,Luton,Everton,1,1,Draw
+1035524,Arsenal,Bournemouth,3,0,Win
+1035527,Burnley,Newcastle,1,4,Loss
+1035525,Brentford,Fulham,0,0,Draw
+1035533,Sheffield Utd,Nottingham Forest,1,3,Loss
+1035532,Manchester City,Wolves,5,1,Win
+1035528,Chelsea,West Ham,5,0,Win
+1035526,Brighton,Aston Villa,1,0,Win
+1035530,Liverpool,Tottenham,4,2,Win
+1035529,Crystal Palace,Manchester United,4,0,Win
+1035537,Fulham,Manchester City,0,4,Loss
+1035539,Newcastle,Brighton,1,1,Draw
+1035534,Bournemouth,Brentford,1,2,Loss
+1035543,Wolves,Crystal Palace,1,3,Loss
+1035536,Everton,Sheffield Utd,1,0,Win
+1035541,Tottenham,Burnley,2,1,Win
+1035542,West Ham,Luton,3,1,Win
+1035540,Nottingham Forest,Chelsea,2,3,Loss
+1035538,Manchester United,Arsenal,0,1,Loss
+1035535,Aston Villa,Liverpool,3,3,Draw
+1035512,Tottenham,Manchester City,0,2,Loss
+1035505,Brighton,Chelsea,1,2,Loss
+1035510,Manchester United,Newcastle,3,2,Win
+1035550,Liverpool,Wolves,2,0,Win
+1035544,Arsenal,Everton,2,1,Win
+1035547,Burnley,Nottingham Forest,1,2,Loss
+1035548,Chelsea,Bournemouth,2,1,Win
+1035552,Manchester City,West Ham,3,1,Win
+1035546,Brighton,Manchester United,0,2,Loss
+1035549,Crystal Palace,Aston Villa,5,0,Win
+1035545,Brentford,Newcastle,2,4,Loss
+1035553,Sheffield Utd,Tottenham,0,3,Loss
+1035551,Luton,Fulham,2,4,Loss
