@@ -4,7 +4,7 @@ import time
 import os
 
 # API credentials
-api_key = '040c21191e11a9f05c94c86520457f68'
+api_key = '43a8c8bc852b94f05370766b571c1069'
 base_url = 'https://v3.football.api-sports.io/'
 
 # Headers for API request
@@ -40,7 +40,7 @@ def fetch_fixture_statistics(match_id, home_team, away_team):
                     'Away_Total_Shots': team_stats.get('Total Shots', 'N/A'),
                     'Away_Expected_Goals': team_stats.get('expected_goals', 'N/A')
                 })
-        
+
         return stats
     return None
 
@@ -74,6 +74,7 @@ print(f"Fetching statistics for {len(matches_to_process)} matches...")
 # Iterate through the batch and fetch statistics
 for match_id, home_team, away_team in matches_to_process:
     stats = fetch_fixture_statistics(match_id, home_team, away_team)
+    print(stats)
     
     if stats:
         df_expanded.loc[df_expanded['match_id'] == match_id, 'Home_Ball_Possession'] = stats['Home_Ball_Possession']
